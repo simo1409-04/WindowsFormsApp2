@@ -138,7 +138,7 @@ namespace WindowsFormsApp2
             this.Controls.Add(this.button1);
             this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormEllipse";
-            this.Text = "Изчертаване на елипса";
+            this.Text = "Изчертаване на елип";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
