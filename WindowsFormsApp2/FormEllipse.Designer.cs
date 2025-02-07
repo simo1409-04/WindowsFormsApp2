@@ -46,7 +46,7 @@ namespace WindowsFormsApp2
             // 
             this.button1.Font = new System.Drawing.Font("Microsoft Sans Serif", 9.75F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.button1.Location = new System.Drawing.Point(823, 486);
-            this.button1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
             this.button1.Size = new System.Drawing.Size(155, 28);
             this.button1.TabIndex = 0;
@@ -57,7 +57,7 @@ namespace WindowsFormsApp2
             // numericUpDown1
             // 
             this.numericUpDown1.Location = new System.Drawing.Point(757, 229);
-            this.numericUpDown1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numericUpDown1.Margin = new System.Windows.Forms.Padding(4);
             this.numericUpDown1.Name = "numericUpDown1";
             this.numericUpDown1.Size = new System.Drawing.Size(160, 22);
             this.numericUpDown1.TabIndex = 2;
@@ -65,7 +65,7 @@ namespace WindowsFormsApp2
             // pictureBox1
             // 
             this.pictureBox1.Location = new System.Drawing.Point(29, 74);
-            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.pictureBox1.Margin = new System.Windows.Forms.Padding(4);
             this.pictureBox1.Name = "pictureBox1";
             this.pictureBox1.Size = new System.Drawing.Size(712, 441);
             this.pictureBox1.TabIndex = 3;
@@ -96,7 +96,7 @@ namespace WindowsFormsApp2
             // numericUpDown2
             // 
             this.numericUpDown2.Location = new System.Drawing.Point(757, 169);
-            this.numericUpDown2.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.numericUpDown2.Margin = new System.Windows.Forms.Padding(4);
             this.numericUpDown2.Name = "numericUpDown2";
             this.numericUpDown2.Size = new System.Drawing.Size(160, 22);
             this.numericUpDown2.TabIndex = 6;
@@ -136,9 +136,9 @@ namespace WindowsFormsApp2
             this.Controls.Add(this.pictureBox1);
             this.Controls.Add(this.numericUpDown1);
             this.Controls.Add(this.button1);
-            this.Margin = new System.Windows.Forms.Padding(4, 4, 4, 4);
+            this.Margin = new System.Windows.Forms.Padding(4);
             this.Name = "FormEllipse";
-            this.Text = "Изчертаване на Елипса";
+            this.Text = "Darw elleipse";
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.pictureBox1)).EndInit();
             ((System.ComponentModel.ISupportInitialize)(this.numericUpDown2)).EndInit();
