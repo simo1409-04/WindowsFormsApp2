@@ -46,7 +46,7 @@ namespace WindowsFormsApp2
             this.button1.Location = new System.Drawing.Point(471, 282);
             this.button1.Margin = new System.Windows.Forms.Padding(4);
             this.button1.Name = "button1";
-            this.button1.Size = new System.Drawing.Size(153, 60);
+            this.button1.Size = new System.Drawing.Size(141, 60);
             this.button1.TabIndex = 0;
             this.button1.Text = "Изчертаване";
             this.button1.UseVisualStyleBackColor = true;
@@ -61,7 +61,7 @@ namespace WindowsFormsApp2
             this.button2.Location = new System.Drawing.Point(653, 282);
             this.button2.Margin = new System.Windows.Forms.Padding(4);
             this.button2.Name = "button2";
-            this.button2.Size = new System.Drawing.Size(140, 60);
+            this.button2.Size = new System.Drawing.Size(128, 60);
             this.button2.TabIndex = 1;
             this.button2.Text = "Запълване";
             this.button2.UseVisualStyleBackColor = true;
@@ -106,7 +106,7 @@ namespace WindowsFormsApp2
             this.button3.Location = new System.Drawing.Point(312, 282);
             this.button3.Margin = new System.Windows.Forms.Padding(4);
             this.button3.Name = "button3";
-            this.button3.Size = new System.Drawing.Size(140, 60);
+            this.button3.Size = new System.Drawing.Size(128, 60);
             this.button3.TabIndex = 9;
             this.button3.Text = "Графични инструменти";
             this.button3.UseVisualStyleBackColor = true;
@@ -120,7 +120,7 @@ namespace WindowsFormsApp2
             this.label3.Font = new System.Drawing.Font("Microsoft Sans Serif", 19.8F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
             this.label3.Location = new System.Drawing.Point(229, 27);
             this.label3.Name = "label3";
-            this.label3.Size = new System.Drawing.Size(638, 107);
+            this.label3.Size = new System.Drawing.Size(626, 107);
             this.label3.TabIndex = 10;
             this.label3.Text = "Курсова работа по визуални среди за програмиране";
             this.label3.TextAlign = System.Drawing.ContentAlignment.TopCenter;
@@ -131,7 +131,7 @@ namespace WindowsFormsApp2
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.Color.AliceBlue;
-            this.ClientSize = new System.Drawing.Size(1064, 554);
+            this.ClientSize = new System.Drawing.Size(1052, 554);
             this.Controls.Add(this.label3);
             this.Controls.Add(this.button3);
             this.Controls.Add(this.label2);
